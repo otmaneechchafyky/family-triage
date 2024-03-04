@@ -1,24 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
--->
-
 <div align="center">
   <img src="./public/images/pf-logo.png" alt="My Logo" width="140"  height="auto" />
   <br/>
@@ -50,9 +31,9 @@ REQUIRED SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Bookstore] <a name="about-project"></a>
+# 📖 [Family Triage] <a name="about-project"></a>
 
-**[Bookstore]** A sample guided interview about legal situation of the user.
+**[Family Triage]** A sample guided interview about legal situation of the user.
 
 ## 🛠 Built With <a name="built-with"></a>
 
